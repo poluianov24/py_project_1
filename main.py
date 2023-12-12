@@ -1,2 +1,4 @@
-print('"Life is what happens \nwhen \nyou\'re busy making other plans"')
+print('''"Life is what happens 
+when 
+you're busy making other plans"''')
 print("John Lennon")
